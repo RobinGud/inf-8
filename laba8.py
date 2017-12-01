@@ -168,3 +168,4 @@ fanoEff = 1 - (entropy / fanoMidLen)
 haffEff = 1 - (entropy / haffMidLen)
 #print(fanoEff)
 #print(haffEff)
+
